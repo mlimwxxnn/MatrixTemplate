@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mlimwxxnn.matrixtemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mlimwxxnn.matrixtemplate.MyBundle
 
 class MyApplicationService {
 
